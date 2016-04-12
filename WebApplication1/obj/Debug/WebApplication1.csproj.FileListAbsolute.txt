@@ -63,3 +63,4 @@ E:\WebProjects\TestSite\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAcc
 E:\WebProjects\TestSite\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
 E:\WebProjects\TestSite\WebApplication1\obj\Debug\WebApplication1.dll
 E:\WebProjects\TestSite\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\WebProjects\TestSite\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
