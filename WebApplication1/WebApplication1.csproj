@@ -216,6 +216,14 @@
     <Content Include="Tatsumaki\Development\Tatsumaki.js" />
     <Content Include="Tatsumaki\Development\UnityLoader.js" />
     <Content Include="Tatsumaki\index.html" />
+    <Content Include="Tatsumaki\TemplateData\favicon.ico" />
+    <Content Include="Tatsumaki\TemplateData\fullbar.png" />
+    <Content Include="Tatsumaki\TemplateData\fullscreen.png" />
+    <Content Include="Tatsumaki\TemplateData\loadingbar.png" />
+    <Content Include="Tatsumaki\TemplateData\logo.png" />
+    <Content Include="Tatsumaki\TemplateData\progresslogo.png" />
+    <Content Include="Tatsumaki\TemplateData\style.css" />
+    <Content Include="Tatsumaki\TemplateData\UnityProgress.js" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
